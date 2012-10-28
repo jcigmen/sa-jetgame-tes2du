@@ -1,0 +1,40 @@
+
+SPRITESHEET1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RAIDEN-03
+  rotate: false
+  xy: 1, 17
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+RAIDEN-02
+  rotate: false
+  xy: 35, 18
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+RAIDEN-04
+  rotate: false
+  xy: 35, 18
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+RAIDEN-01
+  rotate: false
+  xy: 69, 19
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+RAIDEN-PROJECTILE
+  rotate: false
+  xy: 1, 0
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1

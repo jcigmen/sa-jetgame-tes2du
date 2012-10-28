@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="100" tilewidth="20" tileheight="20">
+ <properties>
+  <property name="blended tiles" value=""/>
+ </properties>
+ <tileset firstgid="1" name="TREES1" tilewidth="20" tileheight="20">
+  <image source="TREES1.png" width="60" height="60"/>
+ </tileset>
+ <tileset firstgid="10" name="CRATER1" tilewidth="20" tileheight="20">
+  <image source="CRATER1.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="14" name="SOIL" tilewidth="20" tileheight="20">
+  <image source="SOIL.png" width="20" height="20"/>
+ </tileset>
+ <tileset firstgid="15" name="GRASS" tilewidth="20" tileheight="20">
+  <image source="GRASS.png" width="20" height="20"/>
+ </tileset>
+ <tileset firstgid="16" name="CRATER2" tilewidth="20" tileheight="20">
+  <image source="CRATER2.png" width="60" height="60"/>
+ </tileset>
+ <tileset firstgid="25" name="TREE1" tilewidth="20" tileheight="20">
+  <image source="TREE1.png" width="20" height="40"/>
+ </tileset>
+ <tileset firstgid="27" name="TREE2" tilewidth="20" tileheight="20">
+  <image source="TREE2.png" width="20" height="40"/>
+ </tileset>
+ <tileset firstgid="29" name="TREES2" tilewidth="20" tileheight="20">
+  <image source="TREES2.png" width="40" height="40"/>
+ </tileset>
+ <layer name="GRASS" width="40" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3DAQ0AAAzDoDqYf7cXckhYNVVVVVVVVVVVVVVVVVVVVd8/Z0o+V4A+AAA=
+  </data>
+ </layer>
+ <layer name="SOIL" width="40" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2aWW7DMAxEdQLf/7hBgH4EBpcZkpbogg/Ihx2JnHBTUftaa11/H4tL+SDrlrNW+96679litGX9Wj4tW9peJB+oD89mZh+j8b4W0ZLJFfK77n4YG9J+SatXh55t9p53X/Mt9U80H54WJjfeGqmHpJkSnS+RXkRtMPGM7Pdmr2dfs4HEkulXLXeRHo3mCzmH2Dmo9RCqBfXj2fX6HfWBaIvMhciMsDR4/rqSmUVon6J1wGrz1jB1gc4RaQ97riK2mWttDTLLEP8sSF8g84bNCYo3O5C/ZaphbGb7opI3zLgM1XW3k1O5ic7dJ6iy/9/rfBiGYRiGYRiGYRiGYRiG99P1/5hPPlvJwrwzsYv7s8du2jrq8uistUsstefKb9B28nmY9zz+hD4kPqdih74XdDq3KOy7Sk+hvWNRGUfWDprHqD6rzit9ZuInaczEkfkuqjGjofIMkfajuUbqP9sTmm3vWtqfrbEoSI9U1C7jj7GbjSE6J6PzIqJN6yHLV8Q2a4PtJeu3S9cV/Vixnj1LdlEx6xlfkm9r/S5dzDnE1GCVNmRNxexiiczt3TWH+tqp69en5ftETlG66LFmbgc6xEijSw41Omv70lnbkOcDXa4fPIA+AAA=
+  </data>
+ </layer>
+ <layer name="TREES" width="40" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3TWQ7DIAxFUTq3i+iw/1WWH0uIMpiEghPdI/FR1MQPmzgHAAAAAAAAAAAAAACAXp5+vWaHKHj79ZkdImC1X5LLUr/CXlnKJSxksnqfRNyjreWdgR7tw5bmuKWsqJN5Wp2rzJO5trM6U8FMAQCARQe/jrNDFJz9ukyoK305Vf538+v+/zg/pC/Xhme0Z+pB+vJoyLLkTEvEtbVZamfqlSeuPTJLSlw/rh3+XnvHUs/W3tnSi7V3LPVs6Z257Ln9Jd9NKDWH0nxy2cP9lplq+6up61y+H+F+y0y1d0VTV2vktzrSFw3Bny+APgAA
+  </data>
+ </layer>
+ <layer name="TREES2" width="40" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2ZgW7DIAxEPfYVsG7r/3/lhBRrV88mbFHBmu5JKKEJcD2bpFARQgghhBBCCCGEEEIIIYQQQgjZz9tuAQO6tttuEQEZtb3D+U3y6fs8jhm8q4NrGbxrpt5j+yE5vENUV4/tXR692/lssbo8dvjo6Rrl4ipGfmEuro6p1aX1iFUxjfwa5dsz0Nyxvsz69Ww0d9AX1LTSr1kvVsfQjqs6d8cuQnXu8snDepXpmdqxXtn3+w4yxa+TdS2iuuzvmizz077ztJ4tvpnJmntKht/UM2RamxBCCCGEkP9JhnVYDc47GdZhLTgfUSXHPkpEk2v7KFfyphzF9lPheHWPx8sbjIfVH30f7KeBtiv6orzAPv+6N/5bbcX57Ky918ZeUz+rPM6FGW1RXs3knI5/NvfUzybznmmfd6f/IuP/pax2HM/6WeV7juCcwOvVuWafU97cKuZerav2elK0LRacr1V+ehp5a+eWgOYC5eU4vjpj24L3Yhv0BetfXFfYtIA+AAA=
+  </data>
+ </layer>
+ <layer name="CRATERS2" width="40" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UWQ7DIAxF0Syhc7v/ldb5QEUImxeXDmrvkfgIQuAHhGV5OFo7WTs73z3KmGJnbW/tkBx3sXa1dnO+e0Zj6rXaLF4dUeYoo5rfW6vN4tVRj2vXi2rP5Ir2Vzmfdr3sfF7tmT2vjepXebVv+X9WvTxqnzJXSznDWi+P2jea69mzXPXyqH2juZRMMzJkKZnU+1hyRFlekVW9jyVHlCX7js9QckRZMu/dt9j6bkQ++c8o3n0WW/dj5lko/uluAgAAAAAAAAAAAAAAAAAAAAAAAL/sDmdLfwCAPgAA
+  </data>
+ </layer>
+ <layer name="CRATERS1" width="40" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3WSw6DIBAAUNf93P+6dWNiGkRURiC+l7gSZmBgbKepf6/5ebdeRMZnfr6tFzHVrdPZWLl5Net0NlYvZ1XqKXd/pH2WrvXonkrG58Ys70rP5OjZlYzPjYnqvat1i8q5uFq3I3J3oFYNrsSpcT/W+VNrycW54zuzzh/RYxFSdWnRV1tSdYnqq572ncpX0ttR+96as5evxr0+8334n1Pj3PZi7L2P/o284ywWI/1vYyzuFvRJbwIAAAAAAAAAAAA80w9SsDH5gD4AAA==
+  </data>
+ </layer>
+</map>

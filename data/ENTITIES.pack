@@ -1,0 +1,61 @@
+
+ENTITIES.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CHAS
+  rotate: false
+  xy: 1, 9
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+JIS
+  rotate: false
+  xy: 72, 14
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+CHARLES
+  rotate: false
+  xy: 138, 15
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+EMAN
+  rotate: false
+  xy: 203, 15
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+KING
+  rotate: false
+  xy: 268, 15
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+ARJAY
+  rotate: false
+  xy: 333, 16
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+POGS
+  rotate: false
+  xy: 397, 15
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+PROJECTILE
+  rotate: false
+  xy: 1, 1
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
